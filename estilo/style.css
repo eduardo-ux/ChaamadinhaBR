@@ -1,5 +1,9 @@
 /*Gerais*/
 body {
+    background-image: url(../img/fundo-aquarela-pintado-a-mao-com-forma-de-ceu-e-nuvens.jpg); /*<a href="https://br.freepik.com/fotos-gratis/fundo-aquarela-pintado-a-mao-com-forma-de-ceu-e-nuvens_9728599.htm#query=background%20bege&position=16&from_view=keyword&track=ais&uuid=e121b668-cb0f-4c33-a87f-d0ae449fafe1">Imagem de denamorado</a> no Freepik*/
+    background-size: cover;
+    background-position:fixed;
+    background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
 }
 
