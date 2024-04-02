@@ -1,0 +1,56 @@
+/*Gerais*/
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.row{
+    margin: 0;
+}
+
+.container{
+    padding: 70px 0;
+}
+
+p, li {
+    color: #444;
+    font-size: 14px;
+}
+
+/*Barra de navegação*/
+
+header, .navbar{
+    background-color: #F06EDF;
+    margin-bottom: 0px;
+}
+#nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#logo{
+    width: 75px;
+}
+.navbar-brand{
+    padding: 0;
+    color: white;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.navbar-links{
+    color: #fff;
+}
+.nav-link{
+    color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding: 1rem .8rem;
+}
+#texto-descritivo{
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+    margin-top: 90px;
+    margin-bottom: 0;
+    text-align: center;
+    color:#F06EDF ;
+}
